@@ -9,7 +9,9 @@
 		<title>Projeto Bootstrap 4</title>
 	</head>
 	<body>
-		<h1>Olá mundo!</h1>
+		<div class="container">
+    		<h1>Olá mundo!</h1>
+		</div>
 		
 		
 		
