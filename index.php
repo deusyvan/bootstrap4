@@ -9,8 +9,8 @@
 		<title>Projeto Bootstrap 4</title>
 	</head>
 	<body>
-		<div class="container" style="background-color:#FF0000">
-    		<h1>Olá mundo!</h1>
+		<div class="container">
+    		
 		</div>
 		
 		
