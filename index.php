@@ -13,7 +13,6 @@
     		<div class="row">
     			<div class="col" style="background-color: #FF0000">...</div>
     			<div class="col" style="background-color: #00FF00">...</div>
-    			<div class="col" style="background-color: #FF0000">...</div>
     		</div>
 		</div>
 		
