@@ -24,7 +24,7 @@
 	</head>
 	<body>
 		<div class="container">
-    		<div class="row align-items-end justify-content-end">
+    		<div class="row align-items-start justify-content-end">
     			<div class="col-3 " >Primeira</div>
     			<div class="col-3 " >Segunda</div>
     			<div class="col-3 " >Terceira</div>
