@@ -11,12 +11,14 @@
 		  .row [class^=col-], .row .col {
 		      background-color: #DDD;
 		      border: 1px solid #CCC;
+		      height: 50px;
 		  }
 		  
 		  .row {
 		      background-color: #FF9999;
 		      padding: 10px;
 		      height: 500px;
+		      
 		  }
 		</style>
 	</head>
