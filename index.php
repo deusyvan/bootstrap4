@@ -21,7 +21,7 @@
 	</head>
 	<body>
 		<div class="container">
-    		<div class="row justify-content-start">
+    		<div class="row justify-content-center">
     			<div class="col-3 " >Primeira</div>
     			<div class="col-3 " >Segunda</div>
     			<div class="col-3 " >Terceira</div>
