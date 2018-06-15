@@ -17,11 +17,11 @@
 	<body>
 		<div class="container">
     		<div class="row">
-    			<div class="col order-4" >Primeira</div>
-    			<div class="col order-2" >Segunda</div>
-    			<div class="col order-3" >Terceira</div>
+    			<div class="col " >Primeira</div>
+    			<div class="col " >Segunda</div>
+    			<div class="col order-2" >Terceira</div>
     			<div class="col order-1" >Quarta</div>
-    			<div class="col order-5" >Quinta</div>
+    			<div class="col order-3" >Quinta</div>
     		</div>
     		
 		</div>
