@@ -18,8 +18,8 @@
 		<div class="container">
     		<div class="row">
     			<div class="col" >Primeira</div>
-    			<div class="col" >Segunda</div>
-    			<div class="col order-first" >Terceira</div>
+    			<div class="col order-last" >Segunda</div>
+    			<div class="col " >Terceira</div>
     			
     		</div>
     		
