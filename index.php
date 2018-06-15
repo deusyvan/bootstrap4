@@ -8,28 +8,12 @@
 		
 		<title>Projeto Bootstrap 4</title>
 		<style type="text/css">
-		  .row [class^=col-], .row .col {
-		      background-color: #DDD;
-		      border: 1px solid #CCC;
-		      height: 50px;
-		  }
 		  
-		  .row {
-		      background-color: #FF9999;
-		      padding: 10px;
-		      height: 500px;
-		      
-		  }
 		</style>
 	</head>
 	<body>
 		<div class="container">
-    		<div class="row align-items-end justify-content-start">
-    			<div class="col-3 " >Primeira</div>
-    			<div class="col-3 " >Segunda</div>
-    			<div class="col-3 " >Terceira</div>
-    			
-    		</div>
+    		
     		
 		</div>
 		
