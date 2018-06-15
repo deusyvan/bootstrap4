@@ -20,7 +20,9 @@
     			<div class="col" >...</div>
     			<div class="col" >...</div>
     			<div class="col" >...</div>
-    			<div class="w-100" ></div>
+    			
+    		</div>
+    		<div class="row">
     			<div class="col" >...</div>
     			<div class="col" >...</div>
     			<div class="col" >...</div>
