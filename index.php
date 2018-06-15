@@ -12,6 +12,11 @@
 		      background-color: #DDD;
 		      border: 1px solid #CCC;
 		  }
+		  
+		  .row {
+		      background-color: #FF9999;
+		      padding: 10px;
+		  }
 		</style>
 	</head>
 	<body>
