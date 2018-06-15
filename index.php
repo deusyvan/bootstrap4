@@ -24,7 +24,7 @@
 	</head>
 	<body>
 		<div class="container">
-    		<div class="row ">
+    		<div class="row">
     			<div class="col-3 " >Primeira</div>
     			<div class="col-3 " >Segunda</div>
     			<div class="col-3 " >Terceira</div>
