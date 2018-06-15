@@ -19,7 +19,7 @@
     		<div class="row">
     			<div class="col" >Primeira</div>
     			<div class="col" >Segunda</div>
-    			<div class="col" >Terceira</div>
+    			<div class="col order-first" >Terceira</div>
     			
     		</div>
     		
