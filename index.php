@@ -7,13 +7,19 @@
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
 		
 		<title>Projeto Bootstrap 4</title>
+		<style type="text/css">
+		  .row [class^=col-], .row .col {
+		      background-color: #DDD;
+		      border: 1px solid #CCC;
+		  }
+		</style>
 	</head>
 	<body>
 		<div class="container">
     		<div class="row">
-    			<div class="col-sm" style="background-color: #FF0000">...</div>
-    			<div class="col-sm" style="background-color: #00FF00">...</div>
-    			<div class="col-sm" style="background-color: #FF0000">...</div>
+    			<div class="col-sm" >...</div>
+    			<div class="col" >...</div>
+    			<div class="col" >...</div>
     		</div>
 		</div>
 		
