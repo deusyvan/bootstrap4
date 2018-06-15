@@ -16,12 +16,13 @@
 		  .row {
 		      background-color: #FF9999;
 		      padding: 10px;
+		      height: 500px;
 		  }
 		</style>
 	</head>
 	<body>
 		<div class="container">
-    		<div class="row justify-content-between">
+    		<div class="row ">
     			<div class="col-3 " >Primeira</div>
     			<div class="col-3 " >Segunda</div>
     			<div class="col-3 " >Terceira</div>
