@@ -18,13 +18,25 @@
 			<form method="POST">
 				E-mail:<br/><br/>
 				<input type="email" name="email" /><br/><br/>
-				
 				senha:<br/><br/>
 				<input type="password" name="senha" /><br/><br/>
-				
 				<input type="submit" value="Entrar" />
-			
 			</form>
+			<hr>
+			<form method="POST">
+				<div class="form-group">
+					<label for="email">E-mail:</label>
+    				<input id="email" type="email" name="email"  class="form-control"/>
+				</div>
+				<div class="form-group">
+					<label for="senha">senha:</label>
+    				<input id="senha" type="password" name="senha"  class="form-control"/>
+				</div>
+				<div class="form-group">
+    				<input class="btn btn-primary" type="submit" value="Entrar" />
+				</div>
+			</form>
+			
 		</div>
 		
 		
