@@ -15,16 +15,6 @@
 	<body>
 		<div class="container">
 			
-			<div class="dropdown dropright btn-group">
-				<a href="https://instagram.com" class="btn btn-primary">Instagram</a>
-				<a href="#" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown"></a>
-				<div class="dropdown-menu">
-					<a class="dropdown-item" href="https://google.com">Google</a>
-					<a class="dropdown-item" href="https://facebook.com">Facebook</a>
-					<div class="dropdown-divider"></div>
-					<a class="dropdown-item" href="https://youtube.com">Youtobe</a>
-				</div>
-			</div>
 			
 		</div>
 		
