@@ -34,7 +34,7 @@
         			</div>
         		</li>
         		<li class="media">
-        			<img alt="" src="assets/images/me.jpg" class="mr-3 avatar">
+        			<img alt="" src="assets/images/me.jpg" class="mr-3 avatar align-self-end">
         			<div class="media-body">
         				<h5>Algum tipo de titulo</h5>
         				<p>Aqui vai um texto ilustrativo para mostrar o exemplo de um comentário,
