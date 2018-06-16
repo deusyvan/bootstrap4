@@ -15,7 +15,7 @@
 	<body>
 		<div class="container">
 			
-			<table class="table table-bordered table-striped table-dark">
+			<table class="table table-hover">
 				<tr>
 					<th>#</th>
 					<th>Nome</th>
