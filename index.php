@@ -17,7 +17,7 @@
 			
 			<div style="width: 500px">
 				
-				<img alt="" src="assets/images/wallpaper-1210239.jpg" class="img-fluid">		
+				<img alt="" src="assets/images/me.jpg" >		
 			
 			</div>
     		
