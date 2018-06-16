@@ -27,6 +27,11 @@
 				<div class="form-row">
 					<div class="col">
 						<div class="form-group">
+            				<input id="nome" type="text" name="nome"  class="form-control" placeholder="Nome Completo:"/>
+        				</div>
+					</div>
+					<div class="col">
+						<div class="form-group">
             				<input id="email" type="email" name="email"  class="form-control" placeholder="E-mail:"/>
         				</div>
 					</div>
