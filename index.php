@@ -15,7 +15,7 @@
 	<body>
 		<div class="container">
 			
-			<div class="dropdown dropup">
+			<div class="dropdown dropleft">
 				<a href="#" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Editar</a>
 				<div class="dropdown-menu">
 					<a class="dropdown-item" href="https://google.com">Google</a>
