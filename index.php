@@ -15,7 +15,7 @@
 	<body>
 		<div class="container">
 			
-			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #0000FF">
 				<a class="navbar-brand" href="#" >DFSWEb.com</a>
 				<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
 					<span class="navbar-toggler-icon"></span>
@@ -31,9 +31,8 @@
 				
 				</div>
 				
-				<form method="POST" class="form-inline">
-					<input type="text" class="form-control" placeholder="Pesquisar..." />
-				</form>
+				<span class="navbar-text">Algum texto qualquer...</span>
+				
 			</nav>
 			
 		</div>
