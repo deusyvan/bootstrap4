@@ -19,7 +19,7 @@
 	<body>
 		<div class="container">
 			
-			<div class="teste">
+			<div class="teste text-right">
 				Algum texto
 			</div>	
 			
