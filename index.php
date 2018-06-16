@@ -17,7 +17,7 @@
 			
 			<div style="width: 500px">
 				
-				<img alt="" src="assets/images/me.jpg" >		
+				<img alt="" src="assets/images/me.jpg" class="img-thumbnail"/>		
 			
 			</div>
     		
