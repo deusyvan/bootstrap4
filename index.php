@@ -25,14 +25,17 @@
 					<span aria-hidden="true">&times;</span>
 				</button>
 			</div>
+			<div class="alert alert-danger alert-dismissible" role="alert">
+				Algum aviso de erro ou alerta para o usuário
+				<button class="close" data-dismiss="alert">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
 			<div class="alert alert-success alert-dismissible fade show" role="alert">
 				Algum aviso sucesso ou alerta para o usuário
 				<button class="close" data-dismiss="alert" aria-label="Fechar">
 					<span aria-hidden="true">&times;</span>
 				</button>
-			</div>
-			<div class="alert alert-danger" role="alert">
-				Algum aviso erro sucesso ou alerta para o usuário
 			</div>
 			<div class="alert alert-warning" role="alert">
 				Algum aviso Alerta osbservação sucesso ou alerta para o usuário
