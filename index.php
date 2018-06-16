@@ -22,6 +22,12 @@
 						</div>
 						<input type="text" name="twitter"  class="form-control" placeholder="Usuário:"/>
 					</div>
+					<div class="input-group">
+						<input type="email" name="email"  class="form-control" placeholder="Seu nome de e-mail"/>
+						<div class="input-group-append">
+							<span class="input-group-text">@dfsweb.com</span>
+						</div>
+					</div>
 			</form>
 			
 		</div>
