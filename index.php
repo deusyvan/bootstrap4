@@ -32,7 +32,7 @@
 						
 						</div>
 						<div class="modal-footer">
-						
+							<button class="btn btn-danger" data-dismiss="modal">Fechar Janela</button>
 						</div>
 					</div>
 				</div>
