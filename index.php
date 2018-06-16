@@ -12,13 +12,18 @@
 		      width: 50px;
 		      height: 50px;
 		  }
+		  
+		  .media {
+		      background-color: #EEEEEE;
+		      border-bottom: 1px solid #CCC;
+		  }
 		</style>
 	</head>
 	<body>
 		<div class="container">
 			<ul class="list-unstylied">
         		<li class="media">
-        			<img alt="" src="assets/images/me.jpg" class="mr-3 avatar">
+        			<img alt="" src="assets/images/me.jpg" class="mr-3 avatar align-self-center">
         			<div class="media-body">
         				<h5>Algum tipo de titulo</h5>
         				<p>Aqui vai um texto ilustrativo para mostrar o exemplo de um comentário,
