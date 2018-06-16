@@ -23,16 +23,27 @@
 				<input type="submit" value="Entrar" />
 			</form>
 			<hr>
-			<form method="POST" class="form-inline">
-				<div class="form-group">
-    				<input id="email" type="email" name="email"  class="form-control" placeholder="E-mail:"/>
+			<form method="POST" >
+				<div class="form-row">
+					<div class="col">
+						<div class="form-group">
+            				<input id="email" type="email" name="email"  class="form-control" placeholder="E-mail:"/>
+        				</div>
+					</div>
+					<div class="col">
+						<div class="form-group">
+            				<input id="senha" type="password" name="senha"  class="form-control" placeholder="Senha:"/>
+        				</div>
+					</div>
 				</div>
-				<div class="form-group">
-    				<input id="senha" type="password" name="senha"  class="form-control" placeholder="Senha:"/>
+				<div class="form-row">
+					<div class="col">
+						<div class="form-group">
+            				<input class="btn btn-primary" type="submit" value="Entrar" />
+        				</div>
+					</div>
 				</div>
-				<div class="form-group">
-    				<input class="btn btn-primary" type="submit" value="Entrar" />
-				</div>
+				
 			</form>
 			
 		</div>
