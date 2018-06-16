@@ -21,7 +21,7 @@
 						<button class="btn btn-link" data-toggle="collapse" data-target="#c1">Título do CARD 1</button>
 					</div>
 					
-					<div class="collapse show" id="c1">
+					<div class="collapse show" id="c1" data-parent="#accordion">
     					<div class="card-body">
     						Texto sobre o CARD
     					</div>
