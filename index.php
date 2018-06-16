@@ -28,6 +28,21 @@
 							<span class="input-group-text">@dfsweb.com</span>
 						</div>
 					</div>
+					<div class="input-group input-group-lg">
+						<input type="email" name="email"  class="form-control" placeholder="Seu nome de e-mail"/>
+						<div class="input-group-append">
+							<span class="input-group-text">@dfsweb.com</span>
+						</div>
+					</div>
+					<div class="input-group input-group-sm">
+						<div class="input-group-prepend">
+							<span class="input-group-text">R$</span>
+						</div>
+						<input type="email" name="email"  class="form-control" />
+						<div class="input-group-append">
+							<span class="input-group-text">,00</span>
+						</div>
+					</div>
 			</form>
 			
 		</div>
