@@ -15,34 +15,7 @@
 	<body>
 		<div class="container">
 			
-			<a class="btn btn-secondary"  href="#">Botão</a>
-			<button class="btn btn-outline-primary">Botão</button>
-			<button class="btn btn-primary btn-lg">Botão</button>
-			<input  class="btn btn-danger btn-sm" type="submit" value="Botão" />
-			<button class="btn btn-primary btn-block btn-lg">Botão</button>
-			<a class="btn btn-secondary btn-block"  href="#">Botão</a>
-			<a class="btn btn-outline-danger btn-block btn-sm"  href="#">Botão</a>
 			
-			<div class="btn-group">
-    			<a class="btn btn-secondary"  href="#">Botão</a>
-    			<input  class="btn btn-danger btn-sm" type="submit" value="Botão" />
-    			<a class="btn btn-secondary"  href="#">Botão</a>
-			</div>
-			<div class="btn-group">
-    			<button class="btn btn-primary btn-lg">Botão</button>
-    			<input  class="btn btn-danger btn-sm" type="submit" value="Botão" />
-    			<a class="btn btn-outline-danger btn-sm"  href="#">Botão</a>
-			</div>
-			<div class="btn-group-vertical">
-    			<button class="btn btn-primary btn-lg">Botão</button>
-    			<input  class="btn btn-danger btn-sm" type="submit" value="Botão" />
-    			<a class="btn btn-outline-danger btn-sm"  href="#">Botão</a>
-			</div>
-			<div class="btn-group-vertical">
-    			<button class="btn btn-primary">Botão</button>
-    			<input  class="btn btn-danger btn-sm" type="submit" value="Botão" />
-    			<a class="btn btn-outline-danger"  href="#">Botão</a>
-			</div>
 		</div>
 		
 		
