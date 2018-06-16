@@ -15,7 +15,16 @@
 	<body>
 		<div class="container">
 			
-			
+			<div id="accordion">
+				<div class="card">
+					<div class="card-header">
+						Título do CARD
+					</div>
+					<div class="card-body">
+						Texto sobre o CARD
+					</div>
+				</div>
+			</div>
 			
 		</div>
 		
