@@ -15,41 +15,7 @@
 	<body>
 		<div class="container">
 			
-			<div class="slide carousel" id="slideshowExemplo">
-				
-				<ol class="carousel-indicators">
-					<li data-target="#slideshowExemplo" data-slide-to="0" class="active"></li>
-					<li data-target="#slideshowExemplo" data-slide-to="1"></li>
-					<li data-target="#slideshowExemplo" data-slide-to="2"></li>
-					<li data-target="#slideshowExemplo" data-slide-to="3"></li>
-				</ol>
-				
-				<div class="carousel-inner">
-				
-					<div class="carousel-item active">
-						<img src="assets/images/foto1.jpg" class="w-100" />
-					</div>
-					<div class="carousel-item">
-						<img src="assets/images/foto2.png" class="w-100" />
-					</div>
-					<div class="carousel-item">
-						<img src="assets/images/foto3.jpeg" class="w-100" />
-					</div>
-					<div class="carousel-item">
-						<img src="assets/images/foto4.jpg" class="w-100" />
-					</div>
-				
-				</div>
-				
-				<a class="carousel-control-prev" href="#slideshowExemplo" data-slide="prev">
-					<span class="carousel-control-prev-icon"></span>
-				</a>
-				
-				<a class="carousel-control-next" href="#slideshowExemplo" data-slide="next">
-					<span class="carousel-control-next-icon"></span>
-				</a>
-				
-			</div>
+			
 			
 		</div>
 		
