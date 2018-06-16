@@ -15,8 +15,9 @@
 	<body>
 		<div class="container">
 			
-			
-			
+			<a href="#">Botão</a>
+			<button>Botão</button>
+			<input type="submit" value="Botão" />
 		</div>
 		
 		
