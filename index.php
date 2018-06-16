@@ -16,15 +16,15 @@
 		<div class="container">
 			<div style="width: 600px; margin: 20px;">
     			<ul class="list-group">
-    				<li class="list-group-item" >
+    				<li class="list-group-item d-flex justify-content-between align-items-center" >
     					Curso PHP DO ZERO ao Profissional
     					<span class="badge badge-primary badge-pill">12</span>
     				</li>
-    				<li class="list-group-item" >
+    				<li class="list-group-item d-flex justify-content-between align-items-center" >
     					Curso React Native do Zero ao Profissional
     					<span class="badge badge-primary badge-pill">172</span>
     				</li>
-    				<li class="list-group-item" >
+    				<li class="list-group-item d-flex justify-content-between align-items-center" >
     					Curso Wordpress do Zero ao Profissional
     					<span class="badge badge-primary badge-pill">267</span>
     				</li>
