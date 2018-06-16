@@ -23,15 +23,12 @@
 				<input type="submit" value="Entrar" />
 			</form>
 			<hr>
-			<form method="POST">
+			<form method="POST" class="form-inline">
 				<div class="form-group">
-					<label for="email">E-mail:</label>
-    				<input id="email" type="email" name="email"  class="form-control-plaintext" 
-    					value="deusyvan@gmail.com" />
+    				<input id="email" type="email" name="email"  class="form-control" placeholder="E-mail:"/>
 				</div>
 				<div class="form-group">
-					<label for="senha">senha:</label>
-    				<input id="senha" type="password" name="senha"  class="form-control"/>
+    				<input id="senha" type="password" name="senha"  class="form-control" placeholder="Senha:"/>
 				</div>
 				<div class="form-group">
     				<input class="btn btn-primary" type="submit" value="Entrar" />
