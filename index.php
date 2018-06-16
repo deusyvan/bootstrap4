@@ -19,6 +19,11 @@
 				Clique aqui para abrir
 			</button>
 			
+			<div class="modal fade" id="janela">
+				<div>
+				
+				</div>
+			</div>
 			
 		</div>
 		
