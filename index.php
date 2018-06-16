@@ -14,39 +14,39 @@
 	</head>
 	<body>
 		<div class="container">
-			
-			<table class="table table-striped table-sm">
-				<thead class="thead-light">
-    				<tr>
-    					<th>#</th>
-    					<th>Nome</th>
-    					<th>Sobrenome</th>
-    					<th>Idade</th>
-    				</tr>
-				</thead>
-				<tbody>
-    				<tr>
-    					<td>1</td>
-    					<td>Bonieky</td>
-    					<td>Lacerda</td>
-    					<td>99</td>
-    				</tr>
-    				<tr>
-    					<td>2</td>
-    					<td>Deusyvan</td>
-    					<td>Silva</td>
-    					<td>97</td>
-    				</tr>
-    				<tr>
-    					<td>3</td>
-    					<td>Maria</td>
-    					<td>Aparecida</td>
-    					<td>85</td>
-    				</tr>
-				
-				</tbody>
-			</table>
-    		
+			<div class="tablresponsive">
+    			<table class="table table-striped table-sm">
+    				<thead class="thead-light">
+        				<tr>
+        					<th>#</th>
+        					<th>Nome</th>
+        					<th>Sobrenome</th>
+        					<th>Idade</th>
+        				</tr>
+    				</thead>
+    				<tbody>
+        				<tr>
+        					<td>1</td>
+        					<td>Bonieky</td>
+        					<td>Lacerda</td>
+        					<td>99</td>
+        				</tr>
+        				<tr>
+        					<td>2</td>
+        					<td>Deusyvan</td>
+        					<td>Silva</td>
+        					<td>97</td>
+        				</tr>
+        				<tr>
+        					<td>3</td>
+        					<td>Maria</td>
+        					<td>Aparecida</td>
+        					<td>85</td>
+        				</tr>
+    				
+    				</tbody>
+    			</table>
+    		</div>
 		</div>
 		
 		
