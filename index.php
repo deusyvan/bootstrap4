@@ -15,7 +15,7 @@
 	<body>
 		<div class="container">
 			<div style="width: 600px; margin: 20px;">
-    			<div class="list-group">
+    			<div class="list-group list-group-flush">
     				<a class="list-group-item list-group-item-action" href="#">Link para o site 1</a>
     				<a class="list-group-item list-group-item-action" href="#">Link para o site 2</a>
     				<a class="list-group-item list-group-item-action" href="#">Link para o site 3</a>
