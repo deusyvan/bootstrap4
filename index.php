@@ -15,6 +15,14 @@
 	<body>
 		<div class="container">
 			
+			<form method="POST" >
+					<div class="input-group">
+						<div class="input-group-prepend">
+							<span class="input-group-text">@</span>
+						</div>
+						<input type="text" name="twitter"  class="form-control" placeholder="Usuário:"/>
+					</div>
+			</form>
 			
 		</div>
 		
