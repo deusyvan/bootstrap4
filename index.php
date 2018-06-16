@@ -15,7 +15,7 @@
 	<body>
 		<div class="container">
 			
-			<table class="table table-striped">
+			<table class="table table-bordered">
 				<tr>
 					<th>#</th>
 					<th>Nome</th>
