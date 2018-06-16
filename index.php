@@ -15,8 +15,13 @@
 	<body>
 		<div class="container">
 			
-			<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #FF0000">
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+				<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="navbar-collapse collapse" id="navbarMenu">
 				
+				</div>
 			</nav>
 			
 		</div>
