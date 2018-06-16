@@ -18,7 +18,8 @@
 			<div id="accordion">
 				<div class="card">
 					<div class="card-header">
-						<button class="btn btn-link" data-toggle="collapse" data-target="#c1">Título do CARD 1</button>
+						<button class="btn btn-link" data-toggle="collapse" 
+							data-target="#c1" aria-controls="c1">Título do CARD 1</button>
 					</div>
 					
 					<div class="collapse show" id="c1" data-parent="#accordion">
