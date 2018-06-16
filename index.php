@@ -15,7 +15,7 @@
 	<body>
 		<div class="container">
 			
-			<table class="table table-hover">
+			<table class="table table-striped">
 				<thead class="thead-light">
     				<tr>
     					<th>#</th>
