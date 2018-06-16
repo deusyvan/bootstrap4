@@ -8,15 +8,21 @@
 		
 		<title>Projeto Bootstrap 4</title>
 		<style type="text/css">
-		  
+		      .teste {
+		          width: 300px;
+		          height: 300px;
+		          border: 1px solid #000;
+		       }
 		  
 		</style>
 	</head>
 	<body>
 		<div class="container">
 			
+			<div class="teste">
+				Algum texto
+			</div>	
 			
-			<p>Aqui eu vou digitar um texto um <span class="mark"> pouco maior</span> para você e entender</p>
     		
 		</div>
 		
