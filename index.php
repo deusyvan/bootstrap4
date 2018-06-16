@@ -15,7 +15,8 @@
 	<body>
 		<div class="container">
 			
-			<button class="btn btn-success">Salvar</button>
+			<button class="btn btn-success" data-toggle="tooltip" data-placement="right"
+			     title="Ao clicar, irá salvar os dados do usuário">Salvar</button>
 			
 		</div>
 		
@@ -25,5 +26,10 @@
 		
 		<script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
 		<script type="text/javascript" src="assets/js/bootstrap.bundle.min.js"></script>
+		<script type="text/javascript">
+			$(function(){
+					$('[data-toggle="tooltip"]').tooltip();
+				});
+		</script>
 	</body>
 </html>
