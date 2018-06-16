@@ -25,10 +25,12 @@
 			<hr>
 			<form method="POST">
 				<div class="form-group">
-    				<input type="email" name="email"  class="form-control" placeholder="E-mail"/>
+					<label for="email">E-mail:</label>
+    				<input id="email" type="email" name="email"  class="form-control form-control-lg"/>
 				</div>
 				<div class="form-group">
-    				<input type="password" name="senha"  class="form-control" placeholder="Senha"/>
+					<label for="senha">senha:</label>
+    				<input id="senha" type="password" name="senha"  class="form-control"/>
 				</div>
 				<div class="form-group">
     				<input class="btn btn-primary" type="submit" value="Entrar" />
