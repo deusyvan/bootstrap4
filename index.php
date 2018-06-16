@@ -15,40 +15,8 @@
 	<body>
 		<div class="container">
 			
-			<div class="alert alert-primary" role="alert">
-				<h4 class="alert-heading">Título do Alerta</h4>
-				Algum aviso padrão ou alerta para o usuário
-			</div>
-			<div class="alert alert-secondary alert-dismissible" role="alert">
-				Algum aviso secundário ou alerta para o usuário
-				<button class="close" data-dismiss="alert" aria-label="Fechar">
-					<span aria-hidden="true">&times;</span>
-				</button>
-			</div>
-			<div class="alert alert-danger alert-dismissible" role="alert">
-				Algum aviso de erro ou alerta para o usuário
-				<button class="close" data-dismiss="alert">
-					<span aria-hidden="true">&times;</span>
-				</button>
-			</div>
-			<div class="alert alert-success alert-dismissible fade show" role="alert">
-				Algum aviso sucesso ou alerta para o usuário
-				<button class="close" data-dismiss="alert" aria-label="Fechar">
-					<span aria-hidden="true">&times;</span>
-				</button>
-			</div>
-			<div class="alert alert-warning" role="alert">
-				Algum aviso Alerta osbservação sucesso ou alerta para o usuário
-			</div>
-			<div class="alert alert-info" role="alert">
-				Algum aviso informativo ou alerta para o usuário
-			</div>
-			<div class="alert alert-light" role="alert">
-				Algum aviso light ou alerta para o usuário
-			</div>
-			<div class="alert alert-dark" role="alert">
-				Algum aviso inverso do light ou alerta para o usuário
-			</div>
+			
+			
 		</div>
 		
 		
