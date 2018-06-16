@@ -16,7 +16,16 @@
 		<div class="container">
 			
 			<div class="dropdown">
-				<a href="#" class="btn btn-primary dropdown-toggle">Editar</a>
+				<a href="#" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Editar</a>
+				<div class="dropdown-menu">
+					<form method=POST">
+						Login:
+						<input type="text" name="usuario" />
+					</form>
+					<a class="dropdown-item" href="https://google.com">Google</a>
+					<a class="dropdown-item" href="https://facebook.com">Facebook</a>
+					<a class="dropdown-item" href="https://youtube.com">Youtobe</a>
+				</div>
 			</div>
 			
 		</div>
