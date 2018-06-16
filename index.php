@@ -16,10 +16,14 @@
 		<div class="container">
 			
 			<div class="alert alert-primary" role="alert">
+				<h4 class="alert-heading">Título do Alerta</h4>
 				Algum aviso padrão ou alerta para o usuário
 			</div>
-			<div class="alert alert-secondary" role="alert">
+			<div class="alert alert-secondary alert-dismissible" role="alert">
 				Algum aviso secundário ou alerta para o usuário
+				<button class="close" data-dismiss="alert" aria-label="Fechar">
+					<span aria-hidden="true">&times;</span>
+				</button>
 			</div>
 			<div class="alert alert-success" role="alert">
 				Algum aviso sucesso ou alerta para o usuário
