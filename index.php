@@ -15,33 +15,7 @@
 	<body>
 		<div class="container">
 			
-			<button class="btn btn-primary" data-toggle="modal" data-target="#janela">
-				Clique aqui para abrir
-			</button>
 			
-			<div class="modal fade" id="janela">
-				<div class="modal-dialog modal-dialog-centered modal-lg">
-					<div class="modal-content">
-						<div class="modal-header">
-							<h5 class="modal-title">Título do Modal</h5>
-							<button class="close" data-dismiss="modal">
-								<span>&times;</span>
-							</button>
-						</div>
-						<div class="modal-body">
-							<div class="row">
-								<div class="col">Item 1</div>
-								<div class="col">Item 2</div>
-							</div>
-						</div>
-						<div class="modal-footer">
-							<button class="btn btn-info" data-dismiss="modal">Fechar Janela</button>
-							<button class="btn btn-primary" data-dismiss="modal">Salvar</button>
-							<button class="btn btn-danger" data-dismiss="modal">Cancelar</button>
-						</div>
-					</div>
-				</div>
-			</div>
 			
 		</div>
 		
