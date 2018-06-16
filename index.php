@@ -15,7 +15,7 @@
 	<body>
 		<div class="container">
 			
-			<ul class="pagination pagination-sm">
+			<ul class="pagination pagination-sm justify-content-center">
 				<li class="page-item"><a href="#" class="page-link">1</a></li>
 				<li class="page-item"><a href="#" class="page-link">2</a></li>
 				<li class="page-item"><a href="#" class="page-link">3</a></li>
