@@ -18,7 +18,7 @@
 			
 			<figure class="figure">
 				<img alt="" src="assets/images/me.jpg" class="figure-img img-fluid rounded"/>	
-				<figcaption class="figure-caption text-right">Deusyvan Silva</figcaption>	
+				<figcaption class="figure-caption">Deusyvan Silva</figcaption>	
 			</figure>
 			
     		
