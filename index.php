@@ -40,6 +40,22 @@
 					</div>
 				</div>
 				
+				<div class="card">
+					<div class="card-header">
+						<button class="btn btn-link" data-toggle="collapse" 
+							data-target="#c2" aria-controls="c2">Título do CARD 2</button>
+					</div>
+					
+					<div class="collapse" id="c2" data-parent="#accordion">
+    					<div class="card-body">
+    						Sed tincidunt suscipit ante vitae consectetur. Aenean auctor ante velit, a laoreet massa rutrum sed. 
+    						Mauris id aliquet lectus. Ut at mauris bibendum urna malesuada sagittis. Etiam porta blandit elit in interdum.
+    						Nunc facilisis faucibus purus, a ornare neque. Vestibulum ante ipsum primis in faucibus orci luctus et 
+    						ultrices posuere cubilia Curae; Ut nisl magna.
+    					</div>
+					</div>
+				</div>
+				
 				
 				
 				
