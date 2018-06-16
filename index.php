@@ -21,6 +21,13 @@
 				</button>
 				<div class="navbar-collapse collapse" id="navbarMenu">
 				
+					<div class="navbar-nav">
+						<a href="#" class="nav-item nav-link active">Link 1</a>
+						<a href="#" class="nav-item nav-link ">Link 2</a>
+						<a href="#" class="nav-item nav-link ">Link 3</a>
+						<a href="#" class="nav-item nav-link ">Link 4</a>
+					</div>
+				
 				</div>
 			</nav>
 			
