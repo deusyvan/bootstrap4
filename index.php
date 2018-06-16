@@ -20,8 +20,8 @@
 			</button>
 			
 			<div class="modal fade" id="janela">
-				<div>
-				
+				<div class="modal-dialog">
+					
 				</div>
 			</div>
 			
