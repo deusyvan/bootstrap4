@@ -15,7 +15,11 @@
 	<body>
 		<div class="container">
 			
-			<img alt="" src="assets/images/wallpaper-1210239.jpg" class="img-fluid">		
+			<div style="width: 500px">
+				
+				<img alt="" src="assets/images/wallpaper-1210239.jpg" class="img-fluid">		
+			
+			</div>
     		
 		</div>
 		
