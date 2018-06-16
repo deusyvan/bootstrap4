@@ -22,7 +22,7 @@
 							data-target="#c1" aria-controls="c1">Título do CARD 1</button>
 					</div>
 					
-					<div class="collapse" id="c1" data-parent="#accordion">
+					<div class="collapse show" id="c1" data-parent="#accordion">
     					<div class="card-body">
     						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at ultrices velit.
     						 Morbi ut pulvinar urna, non condimentum libero. Nam quis ante neque. 
@@ -56,7 +56,19 @@
 					</div>
 				</div>
 				
-				
+				<div class="card">
+					<div class="card-header">
+						<button class="btn btn-link" data-toggle="collapse" 
+							data-target="#c3" aria-controls="c3">Título do CARD 3</button>
+					</div>
+					
+					<div class="collapse" id="c3" data-parent="#accordion">
+    					<div class="card-body">
+    						Ut ac vehicula arcu. Nulla lorem diam, scelerisque in urna a, malesuada gravida justo. Mauris ac cursus est. 
+    						Sed congue magna non lobortis viverra. 
+    					</div>
+					</div>
+				</div>
 				
 				
 			</div>
