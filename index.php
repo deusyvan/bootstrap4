@@ -15,6 +15,9 @@
 	<body>
 		<div class="container">
 			
+			<button class="btn btn-primary" data-toggle="modal" data-target="#janela">
+				Clique aqui para abrir
+			</button>
 			
 			
 		</div>
