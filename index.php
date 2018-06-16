@@ -15,7 +15,16 @@
 	<body>
 		<div class="container">
 			
+			<form method="POST">
+				E-mail:<br/><br/>
+				<input type="email" name="email" /><br/><br/>
+				
+				senha:<br/><br/>
+				<input type="password" name="senha" /><br/><br/>
+				
+				<input type="submit" value="Entrar" />
 			
+			</form>
 		</div>
 		
 		
