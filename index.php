@@ -16,6 +16,7 @@
 		<div class="container">
 			
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+				<a class="navbar-brand" href="#" >DFSWEb.com</a>
 				<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
 					<span class="navbar-toggler-icon"></span>
 				</button>
