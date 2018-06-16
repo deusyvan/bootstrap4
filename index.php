@@ -15,7 +15,9 @@
 	<body>
 		<div class="container">
 			
-			
+			<div class="alert alert-primary" role="alert">
+				Algum aviso ou alerta para o usuário
+			</div>
 			
 		</div>
 		
