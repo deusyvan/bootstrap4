@@ -14,13 +14,13 @@
 	</head>
 	<body>
 		<div class="container">
-			
-			<ul class="list-group">
-				<li class="list-group-item">Item 1</li>
-				<li class="list-group-item">Item 2</li>
-				<li class="list-group-item">Item 3</li>
-			</ul>
-			
+			<div style="width: 600px; margin: 20px;">
+    			<ul class="list-group">
+    				<li class="list-group-item">Item 1</li>
+    				<li class="list-group-item">Item 2</li>
+    				<li class="list-group-item">Item 3</li>
+    			</ul>
+			</div>
 		</div>
 		
 		
