@@ -8,23 +8,14 @@
 		
 		<title>Projeto Bootstrap 4</title>
 		<style type="text/css">
-		      .teste {
-		          width: 300px;
-		          height: 300px;
-		          border: 1px solid #000;
-		       }
+		     
 		  
 		</style>
 	</head>
 	<body>
 		<div class="container">
 			
-			<ul class="list-inline">
-				<li class="list-inline-item">Item 1</li>
-				<li class="list-inline-item">Item 2</li>
-				<li class="list-inline-item">Item 3</li>
-			</ul>
-			
+			<img alt="" src="assets/images/wallpaper-1210239.jpg">		
     		
 		</div>
 		
