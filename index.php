@@ -16,9 +16,10 @@
 		<div class="container">
 			
 			
-				
-				<img alt="" src="assets/images/me.jpg" class="rounded img-fluid float-right"/>		
-			
+			<figure class="figure">
+				<img alt="" src="assets/images/me.jpg" class="figure-img img-fluid rounded"/>	
+				<figcaption class="figure-caption text-right">Deusyvan Silva</figcaption>	
+			</figure>
 			
     		
 		</div>
