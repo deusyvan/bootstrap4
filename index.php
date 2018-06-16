@@ -15,7 +15,7 @@
 	<body>
 		<div class="container">
 			
-			<table class="table table-striped">
+			<table class="table table-striped table-sm">
 				<thead class="thead-light">
     				<tr>
     					<th>#</th>
