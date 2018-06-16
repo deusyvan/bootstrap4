@@ -30,6 +30,10 @@
 					</div>
 				
 				</div>
+				
+				<form method="POST" class="form-inline">
+					<input type="text" class="form-control" placeholder="Pesquisar..." />
+				</form>
 			</nav>
 			
 		</div>
