@@ -22,7 +22,7 @@
 			<div class="modal fade" id="janela">
 				<div class="modal-dialog">
 					<div class="modal-content">
-					
+						cabecalho, padrao = corpo, rodape
 					</div>
 				</div>
 			</div>
