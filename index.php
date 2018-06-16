@@ -19,10 +19,10 @@
 	<body>
 		<div class="container">
 			
-			<ul>
-				<li>Item 1</li>
-				<li>Item 2</li>
-				<li>Item 3</li>
+			<ul class="list-inline">
+				<li class="list-inline-item">Item 1</li>
+				<li class="list-inline-item">Item 2</li>
+				<li class="list-inline-item">Item 3</li>
 			</ul>
 			
     		
