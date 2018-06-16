@@ -26,7 +26,7 @@
 			<form method="POST">
 				<div class="form-group">
 					<label for="email">E-mail:</label>
-    				<input id="email" type="email" name="email"  class="form-control" 
+    				<input id="email" type="email" name="email"  class="form-control-plaintext" 
     					value="deusyvan@gmail.com" readonly/>
 				</div>
 				<div class="form-group">
