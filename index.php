@@ -24,6 +24,9 @@
 					<div class="modal-content">
 						<div class="modal-header">
 							<h5 class="modal-title">Título do Modal</h5>
+							<button class="close">
+								<span>&times;</span>
+							</button>
 						</div>
 						<div class="modal-body">
 						
