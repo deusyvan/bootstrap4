@@ -16,7 +16,7 @@
 		<div class="container">
 			
 			
-			<h3>Usuários <small>Adicionar Usuário</small></h3>
+			<h3>Usuários <small class="text-muted">Adicionar Usuário</small></h3>
     		
 		</div>
 		
