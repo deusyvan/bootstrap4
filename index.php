@@ -15,24 +15,32 @@
 	<body>
 		<div class="container">
 			
-			<div class="slide carousel">
+			<div class="slide carousel" id="slideshowExemplo">
 				
 				<div class="carousel-inner">
 				
 					<div class="carousel-item active">
-						<img alt="" src="assets/images/foto1.jpg" class="w-100" />
+						<img src="assets/images/foto1.jpg" class="w-100" />
 					</div>
 					<div class="carousel-item">
-						<img alt="" src="assets/images/foto2.png" class="w-100" />
+						<img src="assets/images/foto2.png" class="w-100" />
 					</div>
 					<div class="carousel-item">
-						<img alt="" src="assets/images/foto3.jpeg" class="w-100" />
+						<img src="assets/images/foto3.jpeg" class="w-100" />
 					</div>
 					<div class="carousel-item">
-						<img alt="" src="assets/images/foto4.jpg" class="w-100" />
+						<img src="assets/images/foto4.jpg" class="w-100" />
 					</div>
 				
 				</div>
+				
+				<a class="carousel-control-prev" href="#slideshowExemplo" data-slide="prev">
+					<span class="carousel-control-prev-icon"></span>
+				</a>
+				
+				<a class="carousel-control-next" href="#slideshowExemplo" data-slide="next">
+					<span class="carousel-control-next-icon"></span>
+				</a>
 				
 			</div>
 			
