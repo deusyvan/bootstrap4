@@ -24,6 +24,14 @@
 						Texto sobre o CARD
 					</div>
 				</div>
+				<div class="card">
+					<div class="card-header">
+						Título do CARD
+					</div>
+					<div class="card-body">
+						Texto sobre o CARD
+					</div>
+				</div>
 			</div>
 			
 		</div>
