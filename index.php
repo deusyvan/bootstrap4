@@ -33,6 +33,16 @@
     			<input  class="btn btn-danger btn-sm" type="submit" value="Botão" />
     			<a class="btn btn-outline-danger btn-sm"  href="#">Botão</a>
 			</div>
+			<div class="btn-group-vertical">
+    			<button class="btn btn-primary btn-lg">Botão</button>
+    			<input  class="btn btn-danger btn-sm" type="submit" value="Botão" />
+    			<a class="btn btn-outline-danger btn-sm"  href="#">Botão</a>
+			</div>
+			<div class="btn-group-vertical">
+    			<button class="btn btn-primary">Botão</button>
+    			<input  class="btn btn-danger btn-sm" type="submit" value="Botão" />
+    			<a class="btn btn-outline-danger"  href="#">Botão</a>
+			</div>
 		</div>
 		
 		
