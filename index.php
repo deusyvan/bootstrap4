@@ -30,7 +30,7 @@
 				</div>
 				<div class="form-group">
 					<label for="senha">senha:</label>
-    				<input id="senha" type="password" name="senha"  class="form-control"/>
+    				<input id="senha" type="password" name="senha"  class="form-control form-control-sm"/>
 				</div>
 				<div class="form-group">
     				<input class="btn btn-primary" type="submit" value="Entrar" />
