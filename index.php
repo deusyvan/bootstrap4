@@ -15,11 +15,12 @@
 	<body>
 		<div class="container">
 			
-			<div class="dropdown dropleft">
+			<div class="dropdown">
 				<a href="#" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Editar</a>
 				<div class="dropdown-menu">
 					<a class="dropdown-item" href="https://google.com">Google</a>
 					<a class="dropdown-item" href="https://facebook.com">Facebook</a>
+					<div class="dropdown-divider"></div>
 					<a class="dropdown-item" href="https://youtube.com">Youtobe</a>
 				</div>
 			</div>
