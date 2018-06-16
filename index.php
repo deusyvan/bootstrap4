@@ -17,7 +17,7 @@
 			
 			
 			<figure class="figure">
-				<img alt="" src="assets/images/me.jpg" class="figure-img img-fluid rounded"/>	
+				<img alt="" src="assets/images/me.jpg" class="figure-img img-fluid rounded img-thumbnail"/>	
 				<figcaption class="figure-caption">Deusyvan Silva</figcaption>	
 			</figure>
 			
