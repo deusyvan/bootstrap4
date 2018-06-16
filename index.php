@@ -14,52 +14,9 @@
 	</head>
 	<body>
 		<div class="container">
-			<div style="width: 600px; margin: 20px;">
-    			<ul class="list-group">
-    				<li class="list-group-item d-flex justify-content-between align-items-center" >
-    					Curso PHP DO ZERO ao Profissional
-    					<span class="badge badge-primary badge-pill">12</span>
-    				</li>
-    				<li class="list-group-item d-flex justify-content-between align-items-center" >
-    					Curso React Native do Zero ao Profissional
-    					<span class="badge badge-primary badge-pill">172</span>
-    				</li>
-    				<li class="list-group-item d-flex justify-content-between align-items-center" >
-    					Curso Wordpress do Zero ao Profissional
-    					<span class="badge badge-primary badge-pill">267</span>
-    				</li>
-    			</ul>
-    			
-    			<div class="list-group">
-    				<a href="#" class="list-group-item list-group-item-action">
-    					<div class="d-flex justify-content-between">
-    						<h5>Título da Notícia</h5>
-    						<small>2 dias atrás</small>
-    					</div>
-    					<p>
-    						Algum resumo da notícia que está acima
-    					</p>
-    				</a>
-    				<a href="#" class="list-group-item list-group-item-action">
-    					<div class="d-flex justify-content-between">
-    						<h5>Título da Notícia</h5>
-    						<small>2 dias atrás</small>
-    					</div>
-    					<p>
-    						Algum resumo da notícia que está acima
-    					</p>
-    				</a>
-    				<a href="#" class="list-group-item list-group-item-action">
-    					<div class="d-flex justify-content-between">
-    						<h5>Título da Notícia</h5>
-    						<small>2 dias atrás</small>
-    					</div>
-    					<p>
-    						Algum resumo da notícia que está acima
-    					</p>
-    				</a>
-    			</div>
-			</div>
+			
+			
+			
 		</div>
 		
 		
