@@ -16,9 +16,29 @@
 		<div class="container">
 			
 			<div class="alert alert-primary" role="alert">
-				Algum aviso ou alerta para o usuário
+				Algum aviso padrão ou alerta para o usuário
 			</div>
-			
+			<div class="alert alert-secondary" role="alert">
+				Algum aviso secundário ou alerta para o usuário
+			</div>
+			<div class="alert alert-success" role="alert">
+				Algum aviso sucesso ou alerta para o usuário
+			</div>
+			<div class="alert alert-danger" role="alert">
+				Algum aviso erro sucesso ou alerta para o usuário
+			</div>
+			<div class="alert alert-warning" role="alert">
+				Algum aviso Alerta osbservação sucesso ou alerta para o usuário
+			</div>
+			<div class="alert alert-info" role="alert">
+				Algum aviso informativo ou alerta para o usuário
+			</div>
+			<div class="alert alert-light" role="alert">
+				Algum aviso light ou alerta para o usuário
+			</div>
+			<div class="alert alert-dark" role="alert">
+				Algum aviso inverso do light ou alerta para o usuário
+			</div>
 		</div>
 		
 		
