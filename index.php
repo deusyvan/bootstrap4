@@ -15,7 +15,7 @@
 	<body>
 		<div class="container">
 			
-			<button class="btn btn-success" data-toggle="tooltip" data-placement="bottom"
+			<button class="btn btn-success" data-toggle="tooltip" 
 			     title="Ao clicar, irá salvar os dados do usuário">Salvar</button>
 			
 		</div>
