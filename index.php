@@ -15,10 +15,13 @@
 	<body>
 		<div class="container">
 			
-			<a class="btn btn-psecundary"  href="#">Botão</a>
-			<button class="btn btn-success">Botão</button>
-			<button class="btn btn-link">Botão</button>
-			<input  class="btn btn-danger" type="submit" value="Botão" />
+			<a class="btn btn-secondary"  href="#">Botão</a>
+			<button class="btn btn-outline-primary">Botão</button>
+			<button class="btn btn-primary btn-lg">Botão</button>
+			<input  class="btn btn-danger btn-sm" type="submit" value="Botão" />
+			<button class="btn btn-primary btn-block btn-lg">Botão</button>
+			<a class="btn btn-secondary btn-block"  href="#">Botão</a>
+			<a class="btn btn-outline-danger btn-block btn-sm"  href="#">Botão</a>
 		</div>
 		
 		
