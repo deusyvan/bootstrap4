@@ -15,11 +15,20 @@
 	<body>
 		<div class="container">
 			<div style="width: 600px; margin: 20px;">
-    			<div class="list-group list-group-flush">
-    				<a class="list-group-item list-group-item-action list-group-item-primary" href="#">Link para o site 1</a>
-    				<a class="list-group-item list-group-item-action list-group-item-danger" href="#">Link para o site 2</a>
-    				<a class="list-group-item list-group-item-action list-group-item-success" href="#">Link para o site 3</a>
-    			</div>
+    			<ul class="list-group">
+    				<li class="list-group-item" >
+    					Curso PHP DO ZERO ao Profissional
+    					<span class="badge badge-primary badge-pill">12</span>
+    				</li>
+    				<li class="list-group-item" >
+    					Curso React Native do Zero ao Profissional
+    					<span class="badge badge-primary badge-pill">172</span>
+    				</li>
+    				<li class="list-group-item" >
+    					Curso Wordpress do Zero ao Profissional
+    					<span class="badge badge-primary badge-pill">267</span>
+    				</li>
+    			</ul>
 			</div>
 		</div>
 		
