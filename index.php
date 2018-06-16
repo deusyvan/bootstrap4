@@ -15,8 +15,8 @@
 	<body>
 		<div class="container">
 			
-			<div class="h1">Por algum titulo aqui qualquer</div>
-			<h1>Por algum titulo aqui qualquer</h1>
+			
+			<h3>Usuários <small>Adicionar Usuário</small></h3>
     		
 		</div>
 		
