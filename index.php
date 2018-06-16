@@ -18,20 +18,19 @@
 			<div id="accordion">
 				<div class="card">
 					<div class="card-header">
-						Título do CARD
+						<button class="btn btn-link" data-toggle="collapse" data-target="#c1">Título do CARD 1</button>
 					</div>
-					<div class="card-body">
-						Texto sobre o CARD
-					</div>
-				</div>
-				<div class="card">
-					<div class="card-header">
-						Título do CARD
-					</div>
-					<div class="card-body">
-						Texto sobre o CARD
+					
+					<div class="collapse show" id="c1">
+    					<div class="card-body">
+    						Texto sobre o CARD
+    					</div>
 					</div>
 				</div>
+				
+				
+				
+				
 			</div>
 			
 		</div>
