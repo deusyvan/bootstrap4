@@ -27,7 +27,7 @@
 				<div class="form-group">
 					<label for="email">E-mail:</label>
     				<input id="email" type="email" name="email"  class="form-control-plaintext" 
-    					value="deusyvan@gmail.com" readonly/>
+    					value="deusyvan@gmail.com" />
 				</div>
 				<div class="form-group">
 					<label for="senha">senha:</label>
