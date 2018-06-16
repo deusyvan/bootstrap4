@@ -15,9 +15,10 @@
 	<body>
 		<div class="container">
 			
-			<a class="btn btn-primary"  href="#">Botão</a>
-			<button class="btn btn-primary">Botão</button>
-			<input  class="btn btn-primary" type="submit" value="Botão" />
+			<a class="btn btn-psecundary"  href="#">Botão</a>
+			<button class="btn btn-success">Botão</button>
+			<button class="btn btn-link">Botão</button>
+			<input  class="btn btn-danger" type="submit" value="Botão" />
 		</div>
 		
 		
