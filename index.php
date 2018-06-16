@@ -16,11 +16,6 @@
 		<div class="container">
 			
 			
-			<figure class="figure">
-				<img alt="" src="assets/images/me.jpg" class="figure-img"/>	
-				<figcaption class="figure-caption">Deusyvan Silva</figcaption>	
-			</figure>
-			
     		
 		</div>
 		
