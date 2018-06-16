@@ -15,7 +15,9 @@
 	<body>
 		<div class="container">
 			
-			
+			<div class="dropdown">
+				<a href="#" class="btn btn-primary dropdown-toggle">Editar</a>
+			</div>
 			
 		</div>
 		
